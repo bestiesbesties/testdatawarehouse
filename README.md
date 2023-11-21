@@ -1,0 +1,1 @@
+Dit is een readme text bestand voor de Datawarehouse opdracht.
